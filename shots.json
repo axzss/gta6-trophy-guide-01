@@ -1,5 +1,1 @@
-[
-  { "file": "1-checklist.jpg", "path": "/", "viewport": { "width": 1280, "height": 800 } },
-  { "file": "2-silver.jpg", "path": "/", "grade": "silver", "viewport": { "width": 1280, "height": 800 } },
-  { "file": "3-bronze.jpg", "path": "/", "grade": "bronze", "scroll": 1400, "viewport": { "width": 1280, "height": 800 } }
-]
+[{"file":"1-cover.jpg","note":"Cover: checklist with progress ring, search + filters, and the Positive Mental Attitude guide (missable) open beside it","path":"/?demo=1&spoiler=off&trophy=28","viewport":{"height":800,"width":1280}},{"file":"2-guide.jpg","note":"Catch Me If You Can full guide open with cited sources, steps and tip beside the checklist","path":"/?demo=1&spoiler=off&trophy=37","viewport":{"height":800,"width":1280}},{"file":"3-roadmap.jpg","note":"Roadmap to the Platinum: three phases, the 100% checklist in numbers, save rules","path":"/?demo=1&view=roadmap","viewport":{"height":800,"width":1280}},{"file":"4-tracker.jpg","note":"Tracker & tools: per-grade and per-kind progress, export/import, next-up list, spoiler preview with story trophies masked","path":"/?demo=1&view=tracker","viewport":{"height":800,"width":1280}}]
